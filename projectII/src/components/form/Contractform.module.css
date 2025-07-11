@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 3rem;
+  margin: 1rem;
+}
+.side {
+  min-height: 22rem;
+  width: 50%;
+  border: 3px solid sandybrown;
+  margin-left: 25rem;
+}
+.side img {
+  height: 21rem;
+  width: 100%;
+}
+.headbutton {
+  display: flex;
+  gap: 3rem;
+  margin: 1rem;
+}
+.sub {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}

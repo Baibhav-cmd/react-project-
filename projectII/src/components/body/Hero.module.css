@@ -1,0 +1,19 @@
+.hero {
+  margin-top: 3rem;
+  max-height: 10rem;
+  max-width: 100%;
+}
+h1 {
+  color: black;
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+  text-decoration-line: underline;
+  text-underline-color: blue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+p {
+  margin: 0.7rem;
+  font-size: larger;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
